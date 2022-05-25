@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Lee%20Jung%20Jae&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Python%20Java%20php&descAlignY=51&descAlign=47)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Lee%20Jung%20Jae&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Java%20Python%20php&descAlignY=51&descAlign=47.3)
 <p align='center'> Student Developer | Jeongjae Lee </p>
 <p align='center'>
   <a href="https://github.com/jjlee2620?tab=repositories">
